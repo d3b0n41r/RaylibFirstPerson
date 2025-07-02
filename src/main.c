@@ -411,4 +411,4 @@ void UpdatePlayer(Player *player, int cameraMode) {
     };
     // end of sprinting jumping crouching section
     player->camera.target = Vector3Add(player->camera.position, dirr);
-}
+} // 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
