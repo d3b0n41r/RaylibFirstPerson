@@ -14,7 +14,7 @@ out vec4 finalColor;
 // NOTE: Add your custom variables here
 
 float gamma = 0.6;
-float numColors = 20.0;
+float numColors = 10.0;
 
 void main()
 {
